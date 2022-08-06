@@ -1,0 +1,58 @@
+.logo {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.loginCard {
+    width: 350px;
+    padding: 40px;
+}
+
+.marginTop20 {
+    margin-top: 20px;
+}
+
+.logoFontSize {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.marginBottom20 {
+    margin-bottom: 20px;
+}
+
+.loginBtn {
+    background-color: #8221c5 !important;
+    border: 1px solid #8221c5 !important;
+    color: #fff !important;
+    font-size: 12px !important;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.loginBtn:hover {
+    background-color: #a43ce9 !important;
+    border: 1px solid #a43ce9 !important;
+    color: #fff !important;
+    font-size: 12px !important;
+}
+
+.poweredBy {
+    font-size: 12px !important;
+    margin-top: 20px !important;
+    font-weight: 600 !important;
+}
+
+.moiLogo {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.leftBanner {
+    display: grid;
+    align-items: center;
+    height: 100%;
+    padding: 0px 0px 0px 230px;
+}
